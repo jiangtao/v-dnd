@@ -1,0 +1,9 @@
+{
+  "name": "v-dnd",
+  "version": "0.0.1",
+  "description": "Vue directive for drag and drop",
+  "main": "index.js",
+  "repository": "git@github.com:jiangtao/v-dnd.git",
+  "author": "jiangtao <w3cfuns@qq.com>",
+  "license": "MIT"
+}
